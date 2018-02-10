@@ -1,4 +1,4 @@
-on-dhcp-proxy (0.33.0) UNRELEASED; urgency=low
+on-dhcp-proxy (0.34.0) UNRELEASED; urgency=low
 
   * Initial release
   * release 1.0.0
@@ -70,5 +70,6 @@ on-dhcp-proxy (0.33.0) UNRELEASED; urgency=low
   * release 0.31.0
   * release 0.32.0
   * release 0.33.0
+  * release 0.34.0
 
- -- rackhd <rackhd@emc.com>  Sat, 10 Feb 2018 20:04:17 +0000
+ -- rackhd <rackhd@emc.com>  Sat, 10 Feb 2018 22:04:43 +0000
